@@ -5,7 +5,7 @@ Este proyecto contiene tres Jupyter Notebooks que abordan distintos aspectos del
 
 1. **Complex numbers**: Implementa operaciones básicas con números complejos, como suma, resta, multiplicación, división, módulo y conjugado.
 2. **Complex Vectors and Matrices**: Explica y desarrolla operaciones con matrices de números complejos, como la transpuesta conjugada y el producto matricial.
-3. ** Internal Product, Eigen Values, Eigen Vectors**: Explora el producto interno complejo en el contexto de la computación cuántica, aplicándolo a vectores columna y matrices cuadradas complejas.
+3. **Internal Product, Eigen Values, Eigen Vectors**: Explora el producto interno complejo en el contexto de la computación cuántica, aplicándolo a vectores columna y matrices cuadradas complejas.
 
 
 ## Getting Started
